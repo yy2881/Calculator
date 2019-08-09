@@ -1,6 +1,0 @@
-
-hi this is the introduction text to my final project.
-
-I'd like to establish an augury website which incorporates constellation and some traditional Chinese numerology. When people type in their personal information, they will get a bunch of prediction regarding their fates.
-
-If you are interested in this interesting project please feel free to join me! :)
